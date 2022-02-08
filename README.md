@@ -18,6 +18,7 @@ My learnings from this project include:
 
 Here is a list of resources I used to build this project:
 
+* [Instant Pot® Recipes](https://www.allrecipes.com/recipes/22882/everyday-cooking/instant-pot/)
 * [README Template](https://github.com/othneildrew/Best-README-Template)
 
 
