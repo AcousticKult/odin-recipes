@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+h1 {
+    background-color: #faebd7;
+}
+
+.image-background {
+    background-color: #bbd7f0;
+}
+
+.lists-left {
+    text-align: left;
+}
