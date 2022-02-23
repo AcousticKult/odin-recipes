@@ -6,6 +6,7 @@ This is the first project from [The Odin Project's Foundations course](https://w
 My learnings from this project include:
 * Setting up a basic website using HTML
 * Use of various HTML tags and elements like headings, lists, anchor tags, among others
+* Use of basic CSS styling syntax for color, typography, etc.
 * Creating a project directory which includes different webpages and assets used for the website
 * Version control using Git and GitHub
 
